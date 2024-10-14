@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/VENOM-V2/hr.py",
+    "postStartCommand": "python3 /workspaces/paid-vps-main-/hr.py",
     "customizations": {
         "vscode": {
             "settings": {
